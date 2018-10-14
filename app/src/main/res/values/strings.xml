@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iVolunteer</string>
+    <string name="etName">Name</string>
+    <string name="etPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvInfo">No of incorrect attempts: </string>
+    <string name="tvRegister">New User? Sign Up</string>
+    <string name="btnRegisterVol">I Want To Volunteer</string>
+    <string name="btnRegisterHi">I Want To Hire Volunteers</string>
+</resources>
